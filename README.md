@@ -1,2 +1,2 @@
 # Google-Code-Jam
-https://code.google.com/codejam/
+https://codingcompetitions.withgoogle.com/codejam
